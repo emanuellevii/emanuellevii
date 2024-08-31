@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 🩷
 
-Meu nome é Vitória Emanuelle
+  Meu nome é Vitória
 - Estudando pensamento computacional 👩‍🏫:
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e
